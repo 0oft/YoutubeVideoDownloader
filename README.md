@@ -13,7 +13,7 @@ This app doesn't need any prerequisites.
 
 ### Installation
 
-You can download this exe and start using it.
+You can download this <a href="https://drive.google.com/drive/folders/1yaSFzZnmPFSft2pfaDwsoETKxrqjmdnc?usp=sharing">exe</a> and start using it.
 
 ## Usage
 
