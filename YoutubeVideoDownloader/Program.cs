@@ -38,8 +38,9 @@ async Task Start()
 
         Console.WriteLine("Files Creating...");
         await Config.CreateFiles();
-        Config.SelectedResolution = SelectAnResolution();
         Config.SelectedMediaType = SelectMediaType();
+        if (Config.SelectedMediaType == MediaType.Video)
+            Config.SelectedResolution = SelectAnResolution();
         Console.Clear();
         Console.WriteLine("Give a Youtube Link:");
         var mainLink = Console.ReadLine();
