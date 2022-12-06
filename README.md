@@ -13,7 +13,7 @@ This app doesn't need any prerequisites.
 
 ### Installation
 
-You can download this <a href="https://github.com/0oft/YoutubeVideoDownloader/releases/download/v0.1/YoutubeVideoDownloader.exe">exe</a> and start using it.
+You can download this <a href="https://github.com/0oft/YoutubeVideoDownloader/releases/download/v0.1.1/YoutubeVideoDownloader.exe">exe</a> and start using it.
 
 ## Usage
 
